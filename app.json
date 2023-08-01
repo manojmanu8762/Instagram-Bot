@@ -1,5 +1,5 @@
 {
-    "name": "Instagram-Bot",
+    "name": "Shortai_bot",
     "description": "Telegram bot to manage your Instagram account.",
     "keywords": [
       "telegram",
@@ -8,7 +8,7 @@
       "download",
       "bot"
     ],
-    "repository": "https://github.com/subinps/Instagram-Bot",
+    "repository": "https://github.com/manojmanu8762/Instagram-Bot",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
@@ -27,7 +27,7 @@
         "value": ""
       },
       "INSTAGRAM_USERNAME": {
-        "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
+        "description": "Enter your Instagram Username without @ , Example: Catotech",
         "value": ""
       },
       "INSTA_SESSIONFILE_ID": {
